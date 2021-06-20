@@ -1,0 +1,27 @@
+### macOS template
+# General
+.DS_Store
+
+### Gradle template
+.gradle
+/build/
+
+
+### Java template
+# Compiled class file
+*.class
+
+
+# Package Files #
+*.jar
+
+target/
+
+.classpath
+.project
+.settings/
+
+
+# .idea folder
+.idea
+
