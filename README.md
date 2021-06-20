@@ -25,6 +25,9 @@ gcloud auth login
 `./get-metada.sh instance-1 wide-factor-317412`
 
 Output will be generated in local file final-output.log
+ 
+### This can also be run using terraform remote-exec using a file provisioner and a connection block
+ 
 # Challenge -3
 
 ## Prerequisite
