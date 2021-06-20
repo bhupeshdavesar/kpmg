@@ -1,5 +1,5 @@
 # Challenge -1
-##Contains terraform modules to provision
+## Contains terraform modules to provision
 Folders
 
 Project
@@ -12,11 +12,11 @@ Resources (spanner / cloudsql / cluster)
 # Challenge -2
 
 Contains shell scripts to get meta data of a gcp cluster
-##Prerequisite
+## Prerequisite
 gcloud sdk
 cluster on gcp
 
-###Steps to run
+### Steps to run
 cd kpmg/Challenge-2
 
 gcloud auth login
@@ -27,10 +27,10 @@ gcloud auth login
 Output will be generated in local file final-output.log
 # Challenge -3
 
-##Prerequisite
+## Prerequisite
 java8/ gradle
 
-###Steps to run locally
+### Steps to run locally
 
 cd kpmg/Challenge-3
 
